@@ -1,0 +1,6 @@
+(move robot1 rooma roomb)
+(move robot1 roomb roomd)
+(pickup robot1 treat1 roomd)
+(move robot1 roomd roomb)
+(move robot1 roomb rooma)
+(drop robot1 treat1 rooma)

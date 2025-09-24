@@ -1,0 +1,2 @@
+(move robot1 rooma roomb)
+(move robot1 roomb roomd)
